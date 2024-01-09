@@ -40,7 +40,7 @@ Please adhere to the following structure when adding your code snippet:
     /YourSnippetName
         - YourSnippetFile.ext
         - README.md
-
+```
 
 In the README.md, include details about your snippet, its purpose, and instructions on usage.
 
